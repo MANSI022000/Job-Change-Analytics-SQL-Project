@@ -57,6 +57,21 @@ This SQL-based analytical project answers over 25 business-critical questions. I
 
 ---
 
+## 📊 Tableau Dashboard
+
+To better visualize the insights derived from the SQL analysis, I’ve built a **clean and interactive Tableau dashboard** hosted on Tableau Public. The dashboard focuses on key attrition indicators such as education level, company type, city development index, and training hours.
+
+🔗 https://public.tableau.com/app/profile/mansi.gupta8072/viz/JobChangeAnalytics/Dashboard1?publish=yes
+
+**Dashboard Highlights:**
+- Experience vs Job Switch Rate
+- Company Type vs Attrition
+- Education Level vs Churn
+- City-wise Job Switching
+- Gender-based Breakdown
+- Correlation with Training Hours
+
+
 ## 📈 For Recruiters / Hiring Managers
 This project reflects my capability to:
 - Translate messy HR data into clear insights
